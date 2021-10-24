@@ -1,0 +1,39 @@
+(END)
+
+62071fe (HEAD -> feature1, origin/feature1) HEAD@{0}: checkout: moving from feature2 to feature1
+8d60010 (origin/feature2, feature2) HEAD@{1}: checkout: moving from master to feature2
+16378b7 (origin/master, origin/develop, master, develop) HEAD@{2}: merge develop: Fast-forward
+15c01e2 (origin/main, origin/HEAD) HEAD@{3}: checkout: moving from develop to master
+16378b7 (origin/master, origin/develop, master, develop) HEAD@{4}: merge feature2: Merge made by the 'recursive' strategy.
+62071fe (HEAD -> feature1, origin/feature1) HEAD@{5}: merge feature1: Fast-forward
+6fac4d9 HEAD@{6}: checkout: moving from feature2 to develop
+8d60010 (origin/feature2, feature2) HEAD@{7}: checkout: moving from feature1 to feature2
+62071fe (HEAD -> feature1, origin/feature1) HEAD@{8}: checkout: moving from develop to feature1
+6fac4d9 HEAD@{9}: checkout: moving from feature2 to develop
+:
+
+62071fe (HEAD -> feature1, origin/feature1) HEAD@{0}: checkout: moving from feature2 to feature1
+8d60010 (origin/feature2, feature2) HEAD@{1}: checkout: moving from master to feature2
+16378b7 (origin/master, origin/develop, master, develop) HEAD@{2}: merge develop: Fast-forward
+15c01e2 (origin/main, origin/HEAD) HEAD@{3}: checkout: moving from develop to master
+16378b7 (origin/master, origin/develop, master, develop) HEAD@{4}: merge feature2: Merge made by the 'recursive' strategy.
+62071fe (HEAD -> feature1, origin/feature1) HEAD@{5}: merge feature1: Fast-forward
+6fac4d9 HEAD@{6}: checkout: moving from feature2 to develop
+8d60010 (origin/feature2, feature2) HEAD@{7}: checkout: moving from feature1 to feature2
+62071fe (HEAD -> feature1, origin/feature1) HEAD@{8}: checkout: moving from develop to feature1
+6fac4d9 HEAD@{9}: checkout: moving from feature2 to develop
+8d60010 (origin/feature2, feature2) HEAD@{10}: checkout: moving from develop to feature2
+6fac4d9 HEAD@{11}: checkout: moving from develop to develop
+6fac4d9 HEAD@{12}: checkout: moving from feature2 to develop
+8d60010 (origin/feature2, feature2) HEAD@{13}: commit: style.css
+6fac4d9 HEAD@{14}: checkout: moving from develop to feature2
+6fac4d9 HEAD@{15}: checkout: moving from feature1 to develop
+62071fe (HEAD -> feature1, origin/feature1) HEAD@{16}: commit: index.html
+0c89f01 HEAD@{17}: commit: Item12.png
+6fac4d9 HEAD@{18}: checkout: moving from develop to feature1
+6fac4d9 HEAD@{19}: checkout: moving from feature1 to develop
+6fac4d9 HEAD@{20}: checkout: moving from develop to feature1
+6fac4d9 HEAD@{21}: commit: index.html
+4de3e2b (main) HEAD@{22}: checkout: moving from main to develop
+4de3e2b (main) HEAD@{23}: commit: READMI.md
+15c01e2 (origin/main, origin/HEAD) HEAD@{24}: clone: from https://github.com/VladFedoseev1993/HW1-GIT.git
